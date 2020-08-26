@@ -18,8 +18,8 @@ $shipy->setConfig([
 
 /*$shipy->setLocale([
     'currency' => 'TRY', # Locale Currency
-    'page' => 'TR', # Locale Page
-    'mail' => 'TR', # Locale Mail
+    'page' => 'TR', # Locale Page Lang
+    'mail' => 'TR', # Locale Mail Lang
 ]);*/
 
 $shipy->setCustomer([
