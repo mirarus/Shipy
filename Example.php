@@ -10,6 +10,12 @@ $shipy->setConfig([
     'payment_method' => 'cc', # Payment Method | cc - mobile
 ]);
 
+/*$shipy->setLocale([
+    'currency' => 'TRY', # Locale Currency
+    'page' => 'TR', # Locale Page
+    'mail' => 'TR', # Locale Mail
+]);*/
+
 $shipy->setCustomer([
     'name' => 'customer.name', # Customer Name
     'email' => 'customer.mail@gmail.com', # Customer Mail
